@@ -36,7 +36,7 @@ from plotly.graph_objects import Scattergeo, Layout
 from plotly import offline
 
 ##data = [Scattergeo(lon=lons, lat=lats)]
-
+#
 data = [{
     'type': 'scattergeo',
     'lon' : lons,
